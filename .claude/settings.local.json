@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/Users/drnic/workspace/and-we-spike-ideas/snmp/ruby/snmp-walking"
+    ],
+    "allow": [
+      "Bash(gem list:*)"
+    ]
+  }
+}
